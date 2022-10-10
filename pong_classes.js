@@ -1,7 +1,7 @@
 // To start a game, press "space-bar"
 // To see the score, check the console
 // To move left paddle, use "w","s"
-// To move left paddle, use "l","p"
+// To move right paddle, use "l","p"
 
 // reference to Canvas html element
 const canvas = document.querySelector('canvas')
